@@ -1,6 +1,6 @@
 +++
 title = "Learning by Analogy for Compositional Generation"
-date = 2026-04-20
+date = 2026-04-30
 
 [taxonomies]
 areas = ["Artificial Intelligence", "Theory"]
